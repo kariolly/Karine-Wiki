@@ -1,0 +1,38 @@
+.titulos{
+    color: blueviolet;
+  }
+  
+  img {
+    width: 237px;
+    height: 229px;
+    border-radius: 150px;
+  }
+  
+  a{
+    color: yellowgreen;
+    width: 324.1px;
+    border: 1px;
+  }
+   body{
+    background-color: black;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+   }
+  
+  p{
+    color:azure;
+  }
+  
+  .rodape{
+    color: black;
+  }
+  
+  footer {
+   display: flex;
+   justify-content: center;
+   padding: 10px 0;
+   background-color: azure;
+  }
+  
